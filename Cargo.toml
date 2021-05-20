@@ -13,4 +13,4 @@ categories = ["algorithms"]
 
 [dependencies]
 geo-types = "0.7.1"
-clipper-sys = { git = "https://github.com/Nevsden/clipper-sys.git", branch = "wrapper_path_conversion_optimization" }
+clipper-sys = { git = "https://github.com/Nevsden/clipper-sys.git", branch = "offset_op_fix_orientation" }
